@@ -5,10 +5,6 @@
 ## General Information
 * [General Info]Loan dataset- Information about past loan applicants whose application was accepted. Approved loan is categorized as Fully paid, Current or Charged-off (defaulted).
 * [Technologies Used] Python, JupyterLab
-* [Conclusions]To conclude, major driving factors indicating tendency to default are:
-- Grade, Tenure and Purpose of loan
-- Verification Status and Home-ownership of applicant
-- Annual Income To Loan Ratio and DTI of applicant
 
 ## General Information
 Objective: To determine the driving factors resulting in loan defaults
